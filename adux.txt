@@ -1,0 +1,177 @@
+
+
+#EXTM3U
+#EXTINF:-1,PT: SPORT TV 2 HD(1)
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/159.ts
+#EXTINF:-1,PT:SPORT TV 1 HD
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/160.ts
+#EXTINF:-1,PT:SPORT TV 1 HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2302.ts
+#EXTINF:-1,PT:SPORT TV 2 HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2301.ts
+#EXTINF:-1,PT: sport1
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26600.ts
+#EXTINF:-1,PT: sport2
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26601.ts
+#EXTINF:-1,PT: BTV
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/27112.ts
+#EXTINF:-1,PT: BENFICA TV 2
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3943.ts
+#EXTINF:-1,PT: BENFICA TV 1
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3944.ts
+#EXTINF:-1,SPORT TV 1 FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/826
+#EXTINF:-1,SPORT TV 1 FHD Backup 1
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/13401
+#EXTINF:-1,SPORT TV 1 HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/827
+#EXTINF:-1,SPORT TV 1 HD Backup 1
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/13402
+#EXTINF:-1,SPORT TV 1
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/828
+#EXTINF:-1,SPORT TV 2 FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/829
+#EXTINF:-1,SPORT TV 2 FHD Backup 1
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/13403
+#EXTINF:-1,SPORT TV 2 HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/830
+#EXTINF:-1,SPORT TV 2 HD Backup 1
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/13404
+#EXTINF:-1,SPORT TV 2
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/831
+#EXTINF:-1,BENFICA TV FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/860
+#EXTINF:-1,BENFICA TV FHD Backup 1
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/13405
+#EXTINF:-1,BENFICA TV HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/861
+#EXTINF:-1,BENFICA TV HD Backup 1
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/13406
+#EXTINF:-1,BENFICA TV
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/862
+#EXTINF:-1,SPORT TV 1: Low
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/32480
+#EXTINF:-1,SPORT TV 2: Low
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/32481
+#EXTINF:-1,|PT| SPORT TV 1 HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81652
+#EXTINF:-1,|PT| SPORT TV 1 HD NOS
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81651
+#EXTINF:-1,|PT| SPORT TV 1
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81650
+#EXTINF:-1,|PT| SPORT TV 2 HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81649
+#EXTINF:-1,|PT| SPORT TV 2
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81648
+#EXTINF:-1 logo="https://tinyurl.com/ybbvjodj" group-title="Sports Update 2",Sport Tv 1
+https://www.livedooMOVIES.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 logo="https://tinyurl.com/ybbvjodj" group-title="Sports Update 2",Sport Tv 2
+https://www.livedooMOVIES.com/02_SPORTTV_2_720p/chunklist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
